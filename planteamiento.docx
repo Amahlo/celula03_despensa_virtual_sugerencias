@@ -1,0 +1,9 @@
+Planteamiento
+
+
+
+
+Actualmente, muchas personas gestionan su alimentación diaria sin un control claro de los ingredientes que poseen en sus hogares, lo que puede generar compras innecesarias, acumulación de productos, desperdicio de alimentos y dificultad para decidir qué preparar. Además, cuando una receta requiere ingredientes que no están disponibles, muchas veces se desconoce qué productos pueden utilizarse como sustitutos o qué otras recetas podrían prepararse con los alimentos existentes.
+Esta problemática se debe principalmente a la falta de una herramienta que permita organizar y visualizar de manera sencilla los productos disponibles en el hogar, relacionándolos con diferentes opciones de recetas. Como consecuencia, los usuarios pueden terminar comprando productos que ya poseen, dejando vencer alimentos o recurriendo constantemente a las mismas preparaciones por no conocer otras alternativas.
+Para dar respuesta a esta problemática, se propone el desarrollo del módulo “Despensa Virtual y Sugerencias” para el aplicativo Sazón, una herramienta que permitirá registrar los productos disponibles en casa y relacionarlos con las recetas del sistema. Mediante un motor de coincidencias, la plataforma podrá sugerir qué cocinar con los ingredientes disponibles, indicar el porcentaje de coincidencia de cada receta y mostrar aquellas preparaciones en las que falta uno o pocos ingredientes, teniendo en cuenta también equivalencias y posibles sustituciones. De esta manera, se busca reducir la incertidumbre al momento de decidir qué cocinar y promover un mejor aprovechamiento de los alimentos disponibles.
+
