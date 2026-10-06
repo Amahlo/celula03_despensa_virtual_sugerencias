@@ -1,0 +1,18 @@
+Alcance
+El proyecto incluye:
+•	El modelo entidad-relación y el script SQL de la base de datos que soporta el módulo.
+•	La gestión (alta y baja) de ingredientes en la despensa personal de cada usuario autenticado.
+•	El motor de coincidencia entre la despensa del usuario y el catálogo de recetas, con cálculo dinámico del porcentaje de match (sin almacenamiento estático de resultados).
+•	El manejo de sinonimias y equivalencias entre nombres, marcas y descripciones de un mismo ingrediente.
+•	El registro de historial de consultas por usuario.
+•	La interfaz en React y la API en Spring Boot correspondientes a las funcionalidades anteriores, consumiendo el módulo común de Usuarios y Autenticación (JWT).
+El proyecto no incluye:
+•	La creación o administración del catálogo maestro de productos y marcas Nutresa (corresponde a la Célula 1 · Catálogo), aunque el módulo consume información derivada de ella.
+•	La creación, edición o publicación de recetas, sus pasos o su clasificación temática (corresponde a la Célula 2 · Recetario), aunque el módulo consume información derivada de ella.
+•	El cálculo del aporte nutricional de las recetas ni la gestión de perfiles alimentarios o restricciones (corresponde a la Célula 4 · Nutrición).
+•	La planificación de menús semanales y la generación de listas de mercado (corresponde a la Célula 5 · Planificador).
+•	Las funcionalidades de valoraciones, comentarios o colecciones de la comunidad (corresponde a la Célula 6 · Comunidad).
+•	Las campañas, cupones y el sistema de puntos de fidelización (corresponde a la Célula 7 · Mercadeo).
+•	La autenticación, gestión de roles y perfil de usuario (corresponde al módulo común 00 · Usuarios, a cargo de los docentes).
+
+
