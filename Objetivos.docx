@@ -1,0 +1,12 @@
+Objetivos
+Objetivo general
+Diseñar e implementar el módulo "Despensa Virtual y Sugerencias" del aplicativo Sazón, que permita a los usuarios registrar los ingredientes disponibles en su hogar y recibir, mediante un motor de coincidencia, sugerencias de recetas preparables con base en su inventario doméstico y en las equivalencias entre ingredientes.
+Objetivos específicos
+1.	Modelar la base de datos del módulo, garantizando la eliminación de redundancias y dependencias innecesarias entre los datos.
+2.	Desarrollar la funcionalidad de registro, consulta y eliminación de ingredientes en la despensa virtual de cada usuario.
+3.	Implementar un motor de coincidencia que cruce en tiempo real los ingredientes de la despensa del usuario con los requeridos por cada receta, calculando el porcentaje de coincidencia y señalando los ingredientes faltantes.
+4.	Construir un sistema de equivalencias y sinonimias que permita reconocer distintos nombres, marcas o descripciones como un mismo ingrediente.
+5.	Registrar el historial de búsquedas realizadas por cada usuario, para preservar la trazabilidad de su actividad.
+6.	Integrar el módulo con el componente común de Usuarios y Autenticación del aplicativo Sazón.
+
+
