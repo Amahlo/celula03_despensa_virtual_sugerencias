@@ -1,0 +1,25 @@
+STOCK TECNOLÓGICO
+
+Stack tecnológico: Para el desarrollo del módulo “Despensa Virtual y Sugerencias” se utilizarán HTML5, CSS3 y JavaScript para la construcción
+de la interfaz y la interacción con el usuario; Java para el desarrollo de la lógica del backend y el motor de coincidencia de ingredientes;
+y MySQL para la gestión de la base de datos relacional. Como herramienta de desarrollo se utilizará Visual Studio Code, mientras que Git y
+GitHub permitirán gestionar las versiones y facilitar el trabajo colaborativo.
+
+Tecnología / herramienta : Uso en el proyecto
+
+HTML5: Se utilizará para crear la estructura de las páginas y los elementos de la interfaz de la despensa virtual.
+
+CSS3: Permitirá diseñar y dar estilo a la interfaz, organizando visualmente los ingredientes, recetas, coincidencias y alertas.
+
+JavaScript: Se utilizará para agregar interactividad al sistema, como registrar, modificar y eliminar ingredientes, además de 
+actualizar las sugerencias.
+
+Java / Backend: Se utilizará para desarrollar la lógica del sistema, especialmente el motor que compara los ingredientes 
+disponibles con los requeridos por cada receta.
+
+MySQL: Se utilizará como sistema de gestión de base de datos relacional para almacenar usuarios, ingredientes, inventario, 
+recetas, equivalencias y sustituciones.
+
+Visual Studio Code: Será el entorno de desarrollo utilizado para escribir, organizar y ejecutar el código del proyecto.
+
+Git y GitHub: Se utilizarán para controlar las versiones del proyecto y facilitar el trabajo colaborativo entre los integrantes del equipo.
