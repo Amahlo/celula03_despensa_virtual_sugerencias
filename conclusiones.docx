@@ -1,0 +1,19 @@
+*Cero redundancias y mayor orden*
+Gracias a una buena estructuración y normalización de la base de datos, se logró eliminar por
+completo la repetición innecesaria de información, evitando así posibles errores o inconsistencias al
+momento de actualizar los registros.
+*Búsquedas mucho más flexibles e inteligentes*
+El sistema cuenta con una tabla especial dedicada a sinónimos que facilita interpretar distintas
+marcas y términos cotidianos que usan los usuarios, logrando conectar de forma correcta lo que
+escriben con los ingredientes oficiales.
+*Sugerencias generadas al instante*
+Las recomendaciones de recetas no se guardan de forma estática en el sistema; por el contrario, el
+motor calcula las coincidencias en tiempo real comparando lo que cada usuario tiene registrado en
+su despensa con las opciones disponibles.
+*Seguimiento detallado de la actividad*
+Se incorporó un registro cronológico del historial de búsquedas para cada usuario, lo que permite
+conservar la trazabilidad de sus consultas y abre la puerta a futuros análisis analíticos.
+*Integración armónica con el ecosistema general*
+El diseño desarrollado encaja de manera fluida dentro de la arquitectura más amplia del proyecto
+Sazón para Grupo Nutresa, integrando de forma eficiente tablas y componentes provenientes de
+diferentes equipos de trabajo.
